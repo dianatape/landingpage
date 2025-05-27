@@ -3,6 +3,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://dianatape.com'),
   title: 'Diana Tape - Coach Professionnelle Certifiée | Luxembourg',
   description: 'Coach familial certifiée, formatrice anti-racisme et spécialiste en intelligence émotionnelle au Luxembourg. Découvrez mes services pour une vie plus épanouie et harmonieuse.',
   keywords: 'coach familial, anti-racisme, Luxembourg, formation, intelligence émotionnelle, EQ360, ICICOACH',
@@ -24,6 +25,13 @@ export const metadata: Metadata = {
   robots: {
     index: true,
     follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
   },
 }
 
