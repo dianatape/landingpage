@@ -3,10 +3,6 @@ const nextConfig = {
   images: {
     domains: ['images.unsplash.com', 'via.placeholder.com'],
   },
-  // Optimisations pour le SEO et la performance
-  experimental: {
-    optimizeCss: true,
-  },
   // Configuration pour la sécurité
   async headers() {
     return [
