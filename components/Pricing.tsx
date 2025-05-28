@@ -52,9 +52,9 @@ export default function Pricing() {
       price: '180',
       unit: '€/séance',
       emoji: '🧠',
-      description: 'Développez votre intelligence émotionnelle avec les frameworks EQ 2.0 & EQ 360',
+      description: 'Développez votre intelligence émotionnelle avec le framework EQ360 certifié',
       features: [
-        'Certification EQ 2.0 et pratique EQ 360',
+        'Évaluation EQ360 complète',
         'Plan de développement personnalisé',
         'Techniques de gestion émotionnelle',
         'Amélioration des relations',

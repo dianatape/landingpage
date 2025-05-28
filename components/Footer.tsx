@@ -33,7 +33,7 @@ export default function Footer() {
                   ICICOACH Genève
                 </span>
                 <span className="bg-primary-800 text-primary-200 px-3 py-1 rounded-lg text-sm border border-primary-700">
-                  EQ 2.0 Certifiée
+                  EQ360 Certifiée
                 </span>
                 <span className="bg-primary-800 text-primary-200 px-3 py-1 rounded-lg text-sm border border-primary-700">
                   Train the Trainers
