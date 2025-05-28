@@ -21,7 +21,7 @@ export default function Testimonials() {
       category: "Formation Anti-Racisme"
     },
     {
-      quote: "L'accompagnement en intelligence émotionnelle avec Diana a été révélateur. Grâce au framework EQ360, j'ai développé une meilleure compréhension de mes émotions et amélioré significativement mes relations professionnelles.",
+      quote: "L'accompagnement en intelligence émotionnelle avec Diana a été révélateur. Grâce au framework EQ 2.0, j'ai développé une meilleure compréhension de mes émotions et amélioré significativement mes relations professionnelles.",
       author: "Sophie & Marc",
       role: "Cadres dirigeants",
       rating: 5,

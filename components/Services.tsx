@@ -44,10 +44,10 @@ export default function Services() {
       id: 'couples',
       title: 'Spécialiste en Intelligence Émotionnelle',
       subtitle: 'Développement personnel et professionnel',
-      description: 'Accompagnement spécialisé basé sur le framework EQ360 pour développer votre intelligence émotionnelle, améliorer vos relations et optimiser votre potentiel personnel et professionnel.',
+      description: 'Accompagnement spécialisé basé sur les frameworks EQ 2.0 et EQ 360 pour développer votre intelligence émotionnelle, améliorer vos relations et optimiser votre potentiel personnel et professionnel.',
       icon: Heart,
       features: [
-        'Évaluation complète EQ360 certifiée',
+        'Évaluation complète EQ 2.0 certifiée',
         'Développement des compétences émotionnelles',
         'Amélioration des relations interpersonnelles',
         'Optimisation du leadership et de la performance'

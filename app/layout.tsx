@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://dianatape.com'),
   title: 'Diana Tape - Coach Professionnelle Certifiée | Luxembourg',
   description: 'Coach familial certifiée, formatrice anti-racisme et spécialiste en intelligence émotionnelle au Luxembourg. Découvrez mes services pour une vie plus épanouie et harmonieuse.',
-  keywords: 'coach familial, anti-racisme, Luxembourg, formation, intelligence émotionnelle, EQ360, ICICOACH',
+  keywords: 'coach familial, anti-racisme, Luxembourg, formation, intelligence émotionnelle, EQ 2.0 & EQ360, ICICOACH',
   authors: [{ name: 'Diana Tape' }],
   creator: 'Diana Tape',
   openGraph: {

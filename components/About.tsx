@@ -13,7 +13,7 @@ export default function About() {
       description: "Formation complète en coaching professionnel"
     },
     {
-      title: "Intelligence Émotionnelle EQ360",
+      title: "Intelligence Émotionnelle EQ 2.0 et EQ 360",
       location: "Certification internationale",
       icon: Star,
       description: "Expertise en développement émotionnel"
@@ -56,18 +56,19 @@ export default function About() {
               
               <div className="space-y-4 text-lg text-primary-700 leading-relaxed">
                 <p>
-                  En tant que coach certifiée, je m'appuie sur des méthodes éprouvées et une approche 
-                  personnalisée pour accompagner chaque client vers l'atteinte de ses objectifs.
+                  En tant que formatrice experte et coach certifiée, je conçois et anime des programmes de formation sur mesure,
+                  alliant méthodes pédagogiques innovantes et approche personnalisée pour garantir une montée en compétences optimale de chaque participant.
                 </p>
                 
                 <p>
-                  Mon expertise en intelligence émotionnelle me permet d'offrir un accompagnement 
-                  profond et durable, adapté aux besoins spécifiques de chaque situation.
+                Ma double expertise de formatrice spécialisée en intelligence émotionnelle et de coach me permet de créer des parcours d'apprentissage transformateurs,
+                où théorie et pratique s'articulent parfaitement pour générer des résultats durables et mesurables.
                 </p>
                 
                 <p>
-                  Que ce soit pour les formations en entreprise, le coaching familial ou 
-                  le développement de l'intelligence émotionnelle, je privilégie toujours l'excellence et les résultats concrets.
+                Qu'il s'agisse de concevoir et déployer des formations en entreprise, d'animer des sessions de coaching familial 
+                ou de développer l'intelligence émotionnelle de vos équipes, mon approche de formatrice-coach privilégie toujours l'excellence pédagogique et l'impact concret sur le terrain.
+
                 </p>
               </div>
             </div>
