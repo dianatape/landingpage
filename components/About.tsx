@@ -1,7 +1,7 @@
 'use client'
 
 import React from 'react'
-import { Award, Users, Target, Star, CheckCircle } from 'lucide-react'
+import { Award, Users, Target, Star, CheckCircle, Heart } from 'lucide-react'
 import ScrollArrow from './ScrollArrow'
 
 export default function About() {
@@ -13,10 +13,10 @@ export default function About() {
       description: "Formation complète en coaching professionnel"
     },
     {
-      title: "Intelligence Émotionnelle EQ360",
-      location: "Certification internationale",
-      icon: Star,
-      description: "Expertise en développement émotionnel"
+      title: "Intelligence Émotionnelle EQ 2.0 & EQ 360",
+      location: "Certification EQ 2.0 et pratique EQ 360",
+      icon: Heart,
+      description: "Expertise dans l'utilisation des frameworks de développement émotionnel"
     },
     {
       title: "Train the Trainers",
@@ -34,44 +34,31 @@ export default function About() {
   ]
 
   return (
-    <section id="about" className="section-padding bg-white">
+    <section id="about" className="section-padding bg-gray-50">
       <div className="container-max">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-primary-900 mb-6">
-            Expertise & Approche
+            Mon Approche Professionnelle
           </h2>
-          <p className="text-xl text-primary-600 max-w-3xl mx-auto leading-relaxed">
-            Une approche professionnelle basée sur l'excellence, l'empathie et des méthodes éprouvées 
-            pour accompagner votre transformation.
-          </p>
+          <div className="max-w-4xl mx-auto space-y-6">
+            <p className="text-xl text-primary-600 leading-relaxed">
+              En tant que formatrice certifiée et coach professionnelle, je conçois et anime des formations 
+              sur mesure tout en offrant un accompagnement personnalisé pour chaque client vers l'atteinte de ses objectifs.
+            </p>
+            <p className="text-xl text-primary-600 leading-relaxed">
+              Mon expertise en formation et en intelligence émotionnelle me permet de transmettre des outils concrets 
+              et d'offrir un accompagnement profond et durable, adapté aux besoins spécifiques de chaque situation.
+            </p>
+            <p className="text-xl text-primary-600 leading-relaxed">
+              Que ce soit pour les formations en entreprise, le coaching familial ou le développement de l'intelligence émotionnelle, 
+              je privilégie toujours l'excellence pédagogique et les résultats concrets.
+            </p>
+          </div>
         </div>
 
         <div className="grid lg:grid-cols-2 gap-16 items-start">
           {/* Philosophie et approche */}
           <div className="space-y-8">
-            <div className="space-y-6">
-              <h3 className="text-2xl font-bold text-primary-800">
-                Mon Approche Professionnelle
-              </h3>
-              
-              <div className="space-y-4 text-lg text-primary-700 leading-relaxed">
-                <p>
-                  En tant que coach certifiée, je m'appuie sur des méthodes éprouvées et une approche 
-                  personnalisée pour accompagner chaque client vers l'atteinte de ses objectifs.
-                </p>
-                
-                <p>
-                  Mon expertise en intelligence émotionnelle me permet d'offrir un accompagnement 
-                  profond et durable, adapté aux besoins spécifiques de chaque situation.
-                </p>
-                
-                <p>
-                  Que ce soit pour les formations en entreprise, le coaching familial ou 
-                  le développement de l'intelligence émotionnelle, je privilégie toujours l'excellence et les résultats concrets.
-                </p>
-              </div>
-            </div>
-
             {/* Points d'expertise */}
             <div className="bg-primary-50 rounded-xl p-6">
               <h4 className="text-xl font-semibold text-primary-800 mb-4 flex items-center space-x-2">
