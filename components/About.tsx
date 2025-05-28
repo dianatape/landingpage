@@ -65,11 +65,6 @@ export default function About() {
                 où théorie et pratique s'articulent parfaitement pour générer des résultats durables et mesurables.
                 </p>
                 
-                <p>
-                Qu'il s'agisse de concevoir et déployer des formations en entreprise, d'animer des sessions de coaching familial 
-                ou de développer l'intelligence émotionnelle de vos équipes, mon approche de formatrice-coach privilégie toujours l'excellence pédagogique et l'impact concret sur le terrain.
-
-                </p>
               </div>
             </div>
 
